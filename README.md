@@ -1,4 +1,4 @@
-<img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif" width=1280 height=640/>
+<img src="https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif" width=1280 height=440/>
 
 ### Hello There,
 
